@@ -5,7 +5,7 @@ ________________________________________
 2. Soil Data
 •	Soil type (e.g., sandy, loamy, clay).
 •	Soil pH levels.
-•	Soil nutrient levels (nitrogen, phosphorus, potassium).
+•	Soil nutrient levels (nitrogen, phosphorus, potassium).✅
 •	Soil moisture levels.
 •	Soil texture and structure.
 ________________________________________
