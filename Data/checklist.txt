@@ -1,4 +1,4 @@
-1. Weather Data
+1. Weather Data✅
 •	Historical temperature data (daily, monthly, yearly averages).✅
 •	Historical rainfall/precipitation data.✅
 ________________________________________
