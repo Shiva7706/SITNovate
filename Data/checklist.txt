@@ -1,5 +1,5 @@
 1. Weather Data
-•	Historical temperature data (daily, monthly, yearly averages).
+•	Historical temperature data (daily, monthly, yearly averages).✅
 •	Historical rainfall/precipitation data.✅
 ________________________________________
 2. Soil Data
