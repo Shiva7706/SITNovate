@@ -1,6 +1,6 @@
 1. Weather Data
 •	Historical temperature data (daily, monthly, yearly averages).
-•	Historical rainfall/precipitation data.
+•	Historical rainfall/precipitation data.✅
 ________________________________________
 2. Soil Data
 •	Soil type (e.g., sandy, loamy, clay).✅
