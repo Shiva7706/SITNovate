@@ -1,0 +1,29 @@
+1. Weather Data
+•	Historical temperature data (daily, monthly, yearly averages).
+•	Historical rainfall/precipitation data.
+________________________________________
+2. Soil Data
+•	Soil type (e.g., sandy, loamy, clay).
+•	Soil pH levels.
+•	Soil nutrient levels (nitrogen, phosphorus, potassium).
+•	Soil moisture levels.
+•	Soil texture and structure.
+________________________________________
+3. Crop Data
+•	Historical crop yield data.
+•	Crop types grown in the region.
+•	Pest and disease incidence data.
+•	Fertilizer and pesticide usage.
+________________________________________
+4. Satellite and Remote Sensing Data
+•	Vegetation indices (e.g., NDVI, EVI).
+•	Land use and land cover data.
+•	Soil moisture from satellite imagery.
+•	Crop health monitoring data.
+•	High-resolution satellite images for field-level analysis.
+________________________________________
+5. Environmental Data
+•	Water availability (e.g., river flow, groundwater levels).
+•	Climate change indicators (e.g., rising temperatures, changing rainfall patterns).
+•	Air quality data.
+________________________________________
