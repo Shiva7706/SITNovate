@@ -15,14 +15,7 @@ ________________________________________
 •	Pest and disease incidence data.
 •	Fertilizer and pesticide usage.
 ________________________________________
-4. Satellite and Remote Sensing Data
-•	Vegetation indices (e.g., NDVI, EVI).
-•	Land use and land cover data.
-•	Soil moisture from satellite imagery.
-•	Crop health monitoring data.
-•	High-resolution satellite images for field-level analysis.
-________________________________________
-5. Environmental Data
+4. Environmental Data
 •	Water availability (e.g., river flow, groundwater levels).
 •	Climate change indicators (e.g., rising temperatures, changing rainfall patterns).
 •	Air quality data.
