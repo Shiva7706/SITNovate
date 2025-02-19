@@ -2,21 +2,16 @@
 •	Historical temperature data (daily, monthly, yearly averages).✅
 •	Historical rainfall/precipitation data.✅
 ________________________________________
-2. Soil Data
+2. Soil Data✅
 •	Soil type (e.g., sandy, loamy, clay).✅
-•	Soil pH levels.
-•	Soil nutrient levels (nitrogen, phosphorus, potassium).✅
-•	Soil moisture levels.
-•	Soil texture and structure.
+•	Soil pH levels.✅
 ________________________________________
 3. Crop Data✅
-•	Historical crop yield data.
-•	Crop types grown in the region.
-•	Pest and disease incidence data.
-•	Fertilizer and pesticide usage.
+•	Historical crop yield data.✅
+•	Crop types grown in the region.✅
+•	Fertilizer and pesticide usage.✅
 ________________________________________
 4. Environmental Data
 •	Water availability (e.g., river flow, groundwater levels).
-•	Climate change indicators (e.g., rising temperatures, changing rainfall patterns).
 •	Air quality data.
 ________________________________________
