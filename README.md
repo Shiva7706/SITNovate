@@ -36,6 +36,3 @@ KisanMITRA is a **Machine Learning-powered Web Application** designed to help fa
 
 ---
 
-## 📢 Contribute & Support
-We aim to **scale** KisanMITRA to **reach more farmers** and make a real impact. If you're interested in contributing or collaborating, feel free to **connect with us!** 🚀
-
