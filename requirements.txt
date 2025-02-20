@@ -1,0 +1,10 @@
+streamlit
+joblib
+pandas 
+gtts
+os
+numpy 
+pygments 
+mdurl 
+markdown-it-py 
+rich
