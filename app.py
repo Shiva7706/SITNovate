@@ -54,7 +54,7 @@ TRANSLATIONS = {
         'Simulate This Change': 'Simulate This Change'
     },
     'hi': {
-         'Kisan MITRA': 'फसल उत्पादन सलाहकार',
+         'Kisan MITRA': 'किसान मित्र',
          'Crop Year': 'फसल वर्ष',
          'Area (acres)': 'क्षेत्र (एकड़)',
          'Fertilizer': 'उर्वरक का नाम',
