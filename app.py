@@ -413,7 +413,7 @@ def main():
         
         try:
             original_pred = model.predict(input_df)[0]
-            prediction_text = f"{t('Predicted Production')}: {original_pred:.2f} {t('tons')}"
+            prediction_text = f"{t('Predicted Production per Area')}: {5*original_pred:.2f} {t('tons')}"
             st.success(prediction_text)
             text_to_speech(prediction_text, lang)
             
