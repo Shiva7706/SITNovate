@@ -34,7 +34,7 @@ LANGUAGES = {
 # Updated translations with new labels and input field names
 TRANSLATIONS = {
     'en': {
-        'Crop Production Advisor': 'Crop Production Advisor',
+        'Crop Production Advisor': 'Kisan MITRA',
         'Crop Year': 'Crop Year',
         'Area (acres)': 'Area (acres)',
         'Fertilizer (kg/acre)': 'Fertilizer (kg/acre)',
