@@ -19,7 +19,7 @@ KisanMITRA is a **Machine Learning-powered Web Application** designed to help fa
 ✅ **Voice-Based Assistance** using **GTTS** for **easy accessibility**  
 ✅ **Scalable Cloud Deployment** to ensure **real-world farmer adoption**  
 ✅ **Supports 9 Indic Languages** for enhanced accessibility for farmers  
-namely - English , Kannada , Hindi , Marathi , Gujarathi , Bengali, Punjabi , Telugu , Tamil , Malyalam
+    namely - English , Kannada , Hindi , Marathi , Gujarathi , Bengali, Punjabi , Telugu , Tamil , Malyalam
 ✅ **Clean Interface** to ensure Farmers feel it easy to use
 ---
 
