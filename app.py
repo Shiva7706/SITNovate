@@ -355,7 +355,7 @@ def main():
     lang = st.sidebar.selectbox("🌐", options=list(LANGUAGES.keys()), format_func=lambda x: LANGUAGES[x])
     t = lambda text: translate_text(text, lang)
     
-    st.title(t("Crop Production Advisor"))
+    st.title(t("Kisan MITRA"))
     
     with st.form("input_form"):
         col1, col2 = st.columns(2)
