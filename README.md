@@ -37,14 +37,14 @@ namely - English , Kannada , Hindi , Marathi , Gujarathi , Bengali, Punjabi , Te
 🌐 **Try it out here:** [KisanMITRA Web App](https://kisanmitra.streamlit.app/) 🚜
 
 ---
-**Innovation & Creativity** : 
-1. Providing recommendation to improve production of crops using only Classical Machine Learning
-2. Introducing the interface in 9 different Indic languages without using external API (providing the output in the language favoured by Farmer)
-3. Providing Speech output without using external API , used gTTS (supports all 9 Indic languages)
+**Innovation & Creativity**:
+1.Provides crop production improvement recommendations using only classical machine learning techniques.
+2.Features an interface that supports 9 Indic languages without relying on external APIs, ensuring output is delivered in the farmer's preferred language.
+3.Delivers speech output using gTTS—supporting all 9 Indic languages—without the need for external APIs.
 
 **Technical Complexity** :
-1. The Prediction + Recommendation system is completely based on Classical Machine learning
-2. Finding suitable data , preprocessing it was a tedious task
+1. The entire prediction and recommendation system is built exclusively on classical machine learning methods.
+2. Sourcing and preprocessing suitable data presented significant challenges.
 
 
 ## 🔄 Workflow
