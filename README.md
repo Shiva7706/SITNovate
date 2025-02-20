@@ -13,14 +13,15 @@ KisanMITRA is a **Machine Learning-powered Web Application** designed to help fa
 ---
 
 ## 🌟 Features
-✅ **Predict Crop Yield** based on **climate, soil conditions, and socio-economic factors**  
-✅ **Personalized Fertilizer & Pesticide Suggestions** with **adjustable dosage inputs**  
-✅ **Real-time Environmental Analysis** to dynamically adapt recommendations  
-✅ **Voice-Based Assistance** using **GTTS** for **easy accessibility**  
-✅ **Scalable Cloud Deployment** to ensure **real-world farmer adoption**  
-✅ **Supports 9 Indic Languages** for enhanced accessibility for farmers  
-    namely - English , Kannada , Hindi , Marathi , Gujarathi , Bengali, Punjabi , Telugu , Tamil , Malyalam
-✅ **Clean Interface** to ensure Farmers feel it easy to use
+✅ Predict Crop Yield based on climate, soil conditions, and socio-economic factors  
+✅ Personalized Fertilizer & Pesticide Suggestions with adjustable dosage inputs  
+✅ Real-time Environmental Analysis to dynamically adapt recommendations  
+✅ Voice-Based Assistance using GTTS for easy accessibility  
+✅ Scalable Cloud Deployment to ensure real-world farmer adoption  
+✅ Supports 9 Indic Languages for enhanced accessibility for farmers  
+   namely - English, Kannada, Hindi, Marathi, Gujarathi, Bengali, Punjabi, Telugu, Tamil, Malyalam  
+✅ Clean Interface to ensure Farmers feel it easy to use
+
 ---
 
 ## 🛠️ Tech Stack
