@@ -6,7 +6,7 @@ KisanMITRA is a **Machine Learning-powered Web Application** designed to help fa
 ### 🔥 Key Integrations:
 - 🌿 **Crop Yield Prediction** using advanced ML models (**XGBoost**)
 - 🧪 **Fertilizer & Pesticide Recommendations** for soil fertility and pest control
-- 📍 **Localized Insights** tailored for specific geographic regions (**districts, agroecological zones**)
+- 📍 **Localized Insights** tailored for specific geographic regions (**States, agroecological zones**)
 - 🎙 **Voice Assistance** for ease of use and accessibility
 
 ---
