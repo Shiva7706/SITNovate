@@ -440,7 +440,7 @@ def main():
                             modified_data[rec['type']] = recommended_val
                             modified_df = pd.DataFrame([modified_data])[expected_columns]
                             new_pred = model.predict(modified_df)[0]
-                            new_pred_text = f"{t('New Predicted Production')}: {new_pred:.2f} {t('tons')}"
+                            new_pred_text = f"{t('New Predicted Production')}: {5*new_pred:.2f} {t('tons')}"
                             st.success(new_pred_text)
                             text_to_speech(new_pred_text, lang)
         
