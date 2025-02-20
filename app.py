@@ -290,7 +290,7 @@ pesticide_defaults = {
     'Lambda-cyhalothrin': 4.0,
     'Imidacloprid': 3.5,
     'Cypermethrin': 4.5,
-    'Spinosad': 2.5,
+    'Spinosad': 2.5,    
     'Bifenthrin': 3.0
 }
 
